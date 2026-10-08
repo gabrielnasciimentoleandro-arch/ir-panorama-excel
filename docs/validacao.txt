@@ -1,0 +1,13 @@
+VALIDAÇÃO APROVADA
+Arquivo: ir_panorama_organizador.xlsx
+Autoria: 0Barone (@gabrielnasciimentoleandro-arch)
+Abas: 10 (Início, Titular, Dependentes, Rendimentos, Bens, Pagamentos, Informes, Notas, Guia, Apoio)
+Tabelas: 6 | Validações de dados: 30 | Gráficos: 1
+Intervalos nomeados: 24
+Links internos: 91 | Links oficiais: 3
+Rendimentos do exemplo: R$ 93.830,75
+Bens na situação atual: R$ 337.650,75
+Pagamentos líquidos: R$ 12.460,00
+Informes conferidos: 62.5%
+Integridade ZIP/XML, fórmulas, caches, tabelas, listas e privacidade: OK
+Macros e vínculos externos de pasta de trabalho: AUSENTES
